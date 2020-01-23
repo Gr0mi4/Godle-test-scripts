@@ -1,4 +1,4 @@
-Hello! This is practical excersise for the Godle company. I never send it, and was intereseted in testing personal abilities in this kind of tasks. In this solution i wasn't using any frameworks, that could help, couse wasn't shure that is would be ok in terms of this exscersise.
+Hello! This is practical excersise for the Godle company. I never send it, and was intereseted in testing personal abilities in this kind of tasks. In this solution i wasn't using any frameworks, that could help, cause wasn't shure that it would be ok in terms of this exscersise.
 
 Text of the exscersise is below.
 
